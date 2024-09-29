@@ -181,6 +181,12 @@ nav li a {
     color: beige;
 }
 
+.foot-title{
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 .foot-des{
     max-width: 400px;
 }
